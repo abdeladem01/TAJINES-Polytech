@@ -1,0 +1,4 @@
+Bonjour.
+Merci d'avoir ouvert ce fichier.
+J'ai crée ce fichier afin de vous informer de l'existence de 2 fichiers quilles.py.
+Mais comme il est demandé de donner un seul, j'ai mis le deuxième dans le dossier "Optionnel". Ce dossier contient le fichier quilles dont est prise la capture d'écran demandé, car la version windows respecte, dû à la presence de certains fichiers polices système, la calligraphie arabe. Merci
